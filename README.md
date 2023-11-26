@@ -1,22 +1,14 @@
 <img width=100% src="/assets/banner.png"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabrielle-Demberck&show_icons=true&theme=radical" /> 
-</div>
-
+    
 ### Hi there 👋
+**I'm Gabrielle Demberck, a passionate full-stack developer with a focus on technology, specializing in mobile solutions. I believe in the power of programming to turn ideas into incredible experiences.**
 
-<!--
-**Gabrielle-Demberck/Gabrielle-Demberck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Let's code the future together! 🚀✨**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div align="right">  
+   <img src="https://komarev.com/ghpvc/?username=gabrielle-dembercke&style=flat-square&color=blue" alt=""/>
+</div>
