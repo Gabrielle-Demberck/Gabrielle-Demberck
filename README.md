@@ -10,5 +10,5 @@
 
 </div>
 <div align="right">  
-   <img src="https://komarev.com/ghpvc/?username=gabrielle-dembercke&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=gabrielle-dembercke&style=flat-square&color=ff69b4" alt=""/>
 </div>
